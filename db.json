@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Samsung",
+      "description": "Good",
+      "price": 1900,
+      "discountPrice": 200,
+      "rating": 5,
+      "stock": 8,
+      "category": "Phone",
+      "image": "https://kontakt.az/media/catalog/product/t/m/tm-dg-sbp-1105-sm-2697_1_1.png",
+      "create_at": 1727806415299,
+      "color": "#f81212"
+    },
+    {
+      "id": "2",
+      "title": "Iphone",
+      "description": "Good",
+      "price": 3500,
+      "discountPrice": 250,
+      "rating": 5,
+      "stock": 7,
+      "category": "Phone",
+      "image": "https://kontakt.az/media/catalog/product/t/m/tm-dg-sbp-1105-sm-1514_1.png",
+      "create_at": 1727806468059,
+      "color": "#000"
+    },
+    {
+      "id": "3",
+      "title": "Xiaomi",
+      "description": "Good",
+      "price": 1500,
+      "discountPrice": 150,
+      "rating": 6,
+      "stock": 9,
+      "category": "Phone",
+      "image": "https://kontakt.az/media/catalog/product/t/m/tm-dg-sbp-1105-sm-2667_15.png",
+      "create_at": 1727806507114,
+      "color": "#1c89f5"
+    }
+  ],
+  "users": [
+    {
+      "id": "6",
+      "name": "Rafiq",
+      "email": "rafiq@gmail.com",
+      "password": "rafiq123",
+      "address": "Baku",
+      "image": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fHww",
+      "phone": "0506432345"
+    }
+  ]
+}
